@@ -1,6 +1,6 @@
 ## Welcome to My Profile 🍣
 
-Honestly dude what is this?
+Are these projects too ambitious or am I just lazy?
 
 
 ![](https://img.shields.io/badge/-Julia-9558b2?style=flat&logo=Julia&logoColor=FFFFFF)
